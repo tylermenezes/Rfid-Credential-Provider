@@ -1,0 +1,18 @@
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Credential Manager.exe.config
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Credential Manager.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Credential Manager.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Wizard.UI.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Wizard.Controls.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\x86\Debug\Wizard.UI.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\TestWizard.CompletePage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\TestWizard.EditPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\TestWizard.MiddlePage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\TestWizard.Properties.Resources.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\TestWizard.TestWizardSheet.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\TestWizard.WelcomePage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\Credential Manager.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\x86\Debug\Credential Manager.pdb

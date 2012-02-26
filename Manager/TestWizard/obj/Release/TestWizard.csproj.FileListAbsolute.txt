@@ -1,0 +1,28 @@
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\bin\Release\Credential Manager.exe.config
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\bin\Release\Credential Manager.exe
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\bin\Release\Wizard.Controls.dll
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\bin\Release\Wizard.UI.dll
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\TestWizard.CompletePage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\TestWizard.EditPage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\TestWizard.MiddlePage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\TestWizard.Properties.Resources.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\TestWizard.TestWizardSheet.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\TestWizard.WelcomePage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\GenerateResource.read.1.tlog
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\GenerateResource.write.1.tlog
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\TestWizard\obj\Release\Credential Manager.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\Release\Credential Manager.exe.config
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\Credential Manager.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\Release\Credential Manager.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\Release\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\bin\Release\Wizard.UI.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\TestWizard.CompletePage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\TestWizard.EditPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\TestWizard.MiddlePage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\TestWizard.Properties.Resources.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\TestWizard.TestWizardSheet.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\TestWizard.WelcomePage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\GenerateResource.read.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\TestWizard\obj\Release\GenerateResource.write.1.tlog

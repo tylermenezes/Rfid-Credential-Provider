@@ -1,0 +1,24 @@
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\bin\Release\Wizard.UI.dll
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\bin\Release\Wizard.Controls.dll
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.ExternalWizardPage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.InternalWizardPage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.WizardBanner.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.WizardPage.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.WizardSheet.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.WizardSidebar.resources
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\ResGen.read.1.tlog
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\ResGen.write.1.tlog
+C:\Users\tylermenezes\Documents\Visual Studio 2010\Projects\CredentialManager\CredentialManager\Wizard.UI\obj\Release\Wizard.UI.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\bin\Release\Wizard.UI.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\bin\Release\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.ExternalWizardPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.InternalWizardPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.WizardBanner.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.WizardPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.WizardSheet.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.WizardSidebar.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\ResGen.read.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\ResGen.write.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\Release\Wizard.UI.dll

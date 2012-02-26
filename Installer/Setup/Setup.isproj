@@ -1,0 +1,48 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2011Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\Manager\TestWizard\TestWizard.csproj">
+			<Name>TestWizard</Name>
+			<Project>{C4C2A78E-01F3-4D2C-A3FB-1C90D8F58033}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Manager\Wizard.Controls\Wizard.Controls.csproj">
+			<Name>Wizard.Controls</Name>
+			<Project>{23AD43FF-38F2-4FEC-9FAA-D7B2FA54492B}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Manager\Wizard.UI\Wizard.UI.csproj">
+			<Name>Wizard.UI</Name>
+			<Project>{80614F74-563D-418E-9BF6-1294F73521C0}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\RegisterSystem\RegisterSystem.csproj">
+			<Name>RegisterSystem1</Name>
+			<Project>{392410E4-C8FF-4E9F-BA6F-D791F95A6CDB}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

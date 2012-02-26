@@ -1,0 +1,5 @@
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\bin\Debug\RegisterSystem.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\bin\Debug\RegisterSystem.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\obj\x86\Debug\RegisterSystem.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\obj\x86\Debug\RegisterSystem.pdb

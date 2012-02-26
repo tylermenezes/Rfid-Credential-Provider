@@ -1,0 +1,8 @@
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\bin\x64\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\bin\x64\Debug\Wizard.Controls.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\x64\Debug\Wizard.Controls.EtchedLine.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\x64\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\x64\Debug\Wizard.Controls.pdb

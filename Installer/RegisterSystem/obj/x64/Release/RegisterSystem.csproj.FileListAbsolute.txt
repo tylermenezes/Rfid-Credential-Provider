@@ -1,0 +1,6 @@
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\bin\x64\Release\RegisterSystem.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\RegisterSystem\obj\x64\Release\RegisterSystem.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Installer\RegisterSystem\bin\x64\Release\RegisterSystem.exe
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Installer\RegisterSystem\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Installer\RegisterSystem\obj\x64\Release\RegisterSystem.exe

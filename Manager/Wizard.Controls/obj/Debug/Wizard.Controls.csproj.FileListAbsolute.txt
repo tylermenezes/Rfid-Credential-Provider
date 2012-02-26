@@ -1,0 +1,16 @@
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\bin\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\bin\Debug\Wizard.Controls.pdb
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\obj\Debug\Wizard.Controls.EtchedLine.resources
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\obj\Debug\ResGen.read.1.tlog
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\obj\Debug\ResGen.write.1.tlog
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\obj\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Documents\visual studio 2010\Projects\CredentialManager\CredentialManager\Wizard.Controls\obj\Debug\Wizard.Controls.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\bin\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\bin\Debug\Wizard.Controls.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\Debug\Wizard.Controls.EtchedLine.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\Debug\ResGen.read.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\Debug\ResGen.write.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.Controls\obj\Debug\Wizard.Controls.pdb

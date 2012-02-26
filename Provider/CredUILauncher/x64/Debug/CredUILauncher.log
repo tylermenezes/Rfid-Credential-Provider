@@ -1,0 +1,35 @@
+﻿Build started 3/2/2011 12:06:05 AM.
+     1>Project "C:\Users\tylermenezes\Desktop\RfidLoginProvider\Provider\CredUILauncher\CredUILauncher.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Debug\CredUILauncher.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "x64\Debug\CredUILauncher.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Debug\CredUILauncher.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\CredUILauncher.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt CredUILauncher.cpp
+         CredUILauncher.cpp
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\CredUILauncher.exe.embed.manifest.res" x64\Debug\CredUILauncher_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.exe" /INCREMENTAL /NOLOGO CredUi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\CredUILauncher.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.lib" /MACHINE:X64 x64\Debug\CredUILauncher.exe.embed.manifest.res
+         x64\Debug\CredUILauncher.obj
+         x64\Debug\stdafx.obj
+         CredUILauncher.vcxproj -> C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.exe
+       Manifest:
+         Deleting file "x64\Debug\CredUILauncher.exe.embed.manifest".
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\CredUILauncher.exe.embed.manifest" /manifest x64\Debug\CredUILauncher.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\CredUILauncher.exe.embed.manifest.res" x64\Debug\CredUILauncher_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.exe" /INCREMENTAL /NOLOGO CredUi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\CredUILauncher.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.lib" /MACHINE:X64 x64\Debug\CredUILauncher.exe.embed.manifest.res
+         x64\Debug\CredUILauncher.obj
+         x64\Debug\stdafx.obj
+         CredUILauncher.vcxproj -> C:\Users\tylermenezes\Desktop\RfidLoginProvider\x64\Debug\CredUILauncher.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\CredUILauncher.unsuccessfulbuild".
+         Touching "x64\Debug\CredUILauncher.lastbuildstate".
+     1>Done Building Project "C:\Users\tylermenezes\Desktop\RfidLoginProvider\Provider\CredUILauncher\CredUILauncher.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09

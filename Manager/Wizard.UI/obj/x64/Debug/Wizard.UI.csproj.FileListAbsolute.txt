@@ -1,0 +1,15 @@
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\bin\x64\Debug\Wizard.UI.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\bin\x64\Debug\Wizard.UI.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\bin\x64\Debug\Wizard.Controls.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\bin\x64\Debug\Wizard.Controls.pdb
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.ExternalWizardPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.InternalWizardPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.WizardBanner.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.WizardPage.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.WizardSheet.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.WizardSidebar.resources
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.dll
+C:\Users\tylermenezes\Desktop\RfidLoginProvider\Manager\Wizard.UI\obj\x64\Debug\Wizard.UI.pdb
