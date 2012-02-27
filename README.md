@@ -1,0 +1,1 @@
+This project is no longer maintained because my Rfid reader exploded. See [this fork](https://github.com/onurguzel/Rfid-Credential-Provider) for a more up to date project.
